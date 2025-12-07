@@ -1,0 +1,7 @@
+{
+  "name": "SmartLook Attendance",
+  "description": "A smart attendance system using facial recognition (face-api.js) and Gemini AI for attendance insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
